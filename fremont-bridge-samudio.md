@@ -1,4 +1,4 @@
----
+
 jupytext:
   encoding: '# -*- coding: utf-8 -*-'
   formats: md:myst
